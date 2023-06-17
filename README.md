@@ -8,5 +8,6 @@ BicycleSeeder.php,
 DatabaseSeeder.php, 
 web.php, 
 test.blade.php, 
-index.blade.php, 
+index.blade.php,
+app.blade.php
 and 2023-06-17-054054-create_bicycles_table.php
